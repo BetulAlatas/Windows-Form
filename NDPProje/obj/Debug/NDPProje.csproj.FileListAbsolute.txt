@@ -1,0 +1,9 @@
+c:\users\betul\documents\visual studio 2015\Projects\NDPProje\NDPProje\bin\Debug\NDPProje.exe.config
+c:\users\betul\documents\visual studio 2015\Projects\NDPProje\NDPProje\bin\Debug\NDPProje.exe
+c:\users\betul\documents\visual studio 2015\Projects\NDPProje\NDPProje\bin\Debug\NDPProje.pdb
+c:\users\betul\documents\visual studio 2015\Projects\NDPProje\NDPProje\obj\Debug\NDPProje.Form1.resources
+c:\users\betul\documents\visual studio 2015\Projects\NDPProje\NDPProje\obj\Debug\NDPProje.Properties.Resources.resources
+c:\users\betul\documents\visual studio 2015\Projects\NDPProje\NDPProje\obj\Debug\NDPProje.csproj.GenerateResource.Cache
+c:\users\betul\documents\visual studio 2015\Projects\NDPProje\NDPProje\obj\Debug\NDPProje.exe
+c:\users\betul\documents\visual studio 2015\Projects\NDPProje\NDPProje\obj\Debug\NDPProje.pdb
+C:\Users\Betul\documents\visual studio 2015\Projects\NDPProje\NDPProje\obj\Debug\NDPProje.csprojResolveAssemblyReference.cache
